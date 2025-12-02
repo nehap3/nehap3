@@ -18,7 +18,7 @@
 ✨ Working on **Striver’s DSA Sheet** & **Full Stack Projects**  
 
 📩 **Let’s Connect:**  
-🌐 **LinkedIn:** https://linkedin.com  
+🌐 **LinkedIn:** [https://linkedin.com](https://www.linkedin.com/in/pal-neha-jg0307/)  
 🐙 **GitHub:** https://github.com/nehap3  
 💼 **Portfolio:** Coming soon...
 
