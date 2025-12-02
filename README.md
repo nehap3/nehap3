@@ -85,15 +85,15 @@
 
 ## 📊 GitHub Stats (Aesthetic)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nehap3&theme=midnight-purple&hide_border=true&show_icons=true" />
-  
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nehap3&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=nehap3&theme=midnight-purple&hide_border=true" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehap3&theme=midnight-purple&hide_border=true&show_icons=true)](https://github.com/nehap3)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehap3&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/nehap3)
+
+[![Streak Stats](https://github-readme-streak-stats.vercel.app/?user=nehap3&theme=midnight-purple&hide_border=true)](https://github.com/nehap3)
+
+</div>
+
 
 
 ---
