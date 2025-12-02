@@ -97,8 +97,12 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=nehap3&theme=midnight-purple&hide_border=true" />
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com?user=nehap3&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D"
+  />
 </p>
+
 
 
 
