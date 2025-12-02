@@ -85,11 +85,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehap3&theme=midnight-purple&hide_border=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehap3&theme=midnight-purple&hide_border=true&show_icons=true&rank_icon=github&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehap3&layout=compact&theme=midnight-purple&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehap3&layout=compact&theme=midnight-purple&hide_border=true&v=1)
 
-![Streak Stats](https://github-readme-streak-stats.vercel.app/?user=nehap3&theme=midnight-purple&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.demolab.com/?user=nehap3&theme=midnight-purple&hide_border=true&v=1)
+
 
 
 ---
