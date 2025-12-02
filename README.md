@@ -31,7 +31,7 @@
 
 <!-- -------------------- TECH STACK -------------------- -->
 
-## 💻 Tech Stack (Aesthetic & Clean)
+## 💻 Tech Stack
 
 ### 🌸 **Languages**
 <p align="left">
