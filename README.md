@@ -3,8 +3,9 @@
 <h1 align="center">✨ Neha Pal — Crafting Code with Elegance & Logic ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=24&pause=1000&color=9A6BFF&center=true&vCenter=true&width=750&lines=MCA+Student+%7C+Full+Stack+Developer;Java+%7C+C%2B%2B+%7C+C%23+%7C+C;Passionate+About+DevOps+%26+DSA;Building+Real+World+Projects;Striver's+DSA+Sheet+In+Progress;Welcome+to+My+GitHub+Profile+💜"/>
+  <img src="https://cdn.jsdelivr.net/gh/DenverCoder1/readme-typing-svg@master/src/readme-typing-svg.svg?font=Kanit&size=24&duration=2000&pause=800&color=9A6BFF&center=true&vCenter=true&width=750&lines=MCA+Student+%7C+Full+Stack+Developer;Java+%7C+C%2B%2B+%7C+C%23+%7C+C;Passionate+About+DevOps+%26+DSA;Building+Real+World+Projects;Striver's+DSA+Sheet+In+Progress;Welcome+to+My+GitHub+Profile+💜" />
 </p>
+
 
 ---
 
@@ -13,7 +14,7 @@
 ## 🌷 About Me  
 ✨ **MCA Student @ Thakur College (TIMSCDR)**  
 ✨ **Full Stack Developer (.NET | MERN | PERN)**  
-✨ Skilled in **Java, C++, C#, C**  
+✨ Skilled in **Java, C++, C#, SQL**  
 ✨ Strong interest in **DevOps, DSA & System Design**  
 ✨ Working on **Striver’s DSA Sheet** & **Full Stack Projects**  
 
@@ -30,7 +31,7 @@
 
 ### 🌸 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs" />
 </p>
 
 ### 🌈 **Frameworks & Tools**
@@ -86,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=nehap3&theme=midnight-purple&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nehap3&theme=midnight-purple&hide_border=true&show_icons=true" />
 </p>
 
 ---
@@ -104,8 +105,9 @@
 
 ## 🌸 Visitor Count  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nehap3&icon=6&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=nehap3&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
+
 
 ---
 
