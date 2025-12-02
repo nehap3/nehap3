@@ -1,15 +1,114 @@
-# 💫 About Me:
-👩‍💻 About Me<br><br>MCA Student @ Thakur College | Software Developer<br><br>Passionate about Full Stack Development, DevOps & DSA<br><br>Building real-world projects | Competitive coding enthusiast<br><br>Tech Stack: .NET, SQL, React, Node, MATLAB<br><br>🚀 Currently working on DSA (Striver’s Sheet) & Full Stack projects<br><br><br>📫 Connect: LinkedIn | GitHub | Portfolio
+<!-- -------------------- HEADER -------------------- -->
 
+<h1 align="center">✨ Neha Pal — Crafting Code with Elegance & Logic ✨</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nehap3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nehap3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nehap3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=24&pause=1000&color=9A6BFF&center=true&vCenter=true&width=750&lines=MCA+Student+%7C+Full+Stack+Developer;Passionate+About+DevOps+%26+DSA;Building+Real+World+Projects;Striver's+DSA+Sheet+In+Progress;Welcome+to+My+GitHub+Profile+💜"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nehap3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- -------------------- ABOUT ME -------------------- -->
+
+## 🌷 About Me  
+✨ **MCA Student @ Thakur College (TIMSCDR)**  
+✨ **Full Stack Developer (.NET | MERN | PERN)**  
+✨ Strong interest in **DevOps, DSA & System Design**  
+✨ Building real-world projects & polishing problem-solving  
+✨ Currently working on **Striver’s DSA Sheet** & **Full Stack Projects**  
+
+📩 **Let’s Connect:**  
+🌐 **LinkedIn:** https://linkedin.com  
+🐙 **GitHub:** https://github.com/nehap3  
+💼 **Portfolio:** Coming soon...
+
+---
+
+<!-- -------------------- TECH STACK -------------------- -->
+
+## 💻 Tech Stack (Aesthetic & Clean)
+
+### 🌸 **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,r" />
+</p>
+
+### 🌈 **Frameworks & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,matlab" />
+</p>
+
+### 🗄 **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
+</p>
+
+### 🛠 **Developer Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+<!-- -------------------- PROJECTS -------------------- -->
+
+## 📌 Featured Projects  
+
+### 🔹 **LearnSync – Student Project Management Platform**  
+✔ Built using **PERN Stack**  
+✔ Students upload/update project details  
+✔ Mentors track tasks + give feedback  
+✔ Clean UI + smooth workflow  
+
+---
+
+### 🔹 **AI-Based Job Recommendation System**  
+✔ **MERN Stack + Gemini LLM**  
+✔ AI-powered job recommendations  
+✔ MongoDB Vector Search for semantic matching  
+
+---
+
+### 🔹 **Tenzies Game**  
+✔ Built with **React.js**  
+✔ 10-dice rolling game  
+✔ Strategic hold system for gameplay  
+
+---
+
+<!-- -------------------- GITHUB STATS -------------------- -->
+
+## 📊 GitHub Stats (Aesthetic)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nehap3&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehap3&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=nehap3&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
+<!-- -------------------- ACTIVITY GRAPH -------------------- -->
+
+## 🌿 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehap3&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- -------------------- VISITOR COUNT -------------------- -->
+
+## 🌸 Visitor Count  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=nehap3&icon=6&color=6" />
+</p>
+
+---
+
+<!-- -------------------- FOOTER -------------------- -->
+
+## 💜 Made with patience, passion & purpose.  
