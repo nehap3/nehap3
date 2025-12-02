@@ -3,7 +3,7 @@
 <h1 align="center">✨ Neha Pal — Crafting Code with Elegance & Logic ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=24&pause=1000&color=9A6BFF&center=true&vCenter=true&width=750&lines=MCA+Student+%7C+Full+Stack+Developer;Passionate+About+DevOps+%26+DSA;Building+Real+World+Projects;Striver's+DSA+Sheet+In+Progress;Welcome+to+My+GitHub+Profile+💜"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=24&pause=1000&color=9A6BFF&center=true&vCenter=true&width=750&lines=MCA+Student+%7C+Full+Stack+Developer;Java+%7C+C%2B%2B+%7C+C%23+%7C+C;Passionate+About+DevOps+%26+DSA;Building+Real+World+Projects;Striver's+DSA+Sheet+In+Progress;Welcome+to+My+GitHub+Profile+💜"/>
 </p>
 
 ---
@@ -13,9 +13,9 @@
 ## 🌷 About Me  
 ✨ **MCA Student @ Thakur College (TIMSCDR)**  
 ✨ **Full Stack Developer (.NET | MERN | PERN)**  
+✨ Skilled in **Java, C++, C#, C**  
 ✨ Strong interest in **DevOps, DSA & System Design**  
-✨ Building real-world projects & polishing problem-solving  
-✨ Currently working on **Striver’s DSA Sheet** & **Full Stack Projects**  
+✨ Working on **Striver’s DSA Sheet** & **Full Stack Projects**  
 
 📩 **Let’s Connect:**  
 🌐 **LinkedIn:** https://linkedin.com  
@@ -30,17 +30,17 @@
 
 ### 🌸 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,r" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs" />
 </p>
 
 ### 🌈 **Frameworks & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,matlab" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express" />
 </p>
 
 ### 🗄 **Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
 ### 🛠 **Developer Tools**
@@ -57,8 +57,8 @@
 ### 🔹 **LearnSync – Student Project Management Platform**  
 ✔ Built using **PERN Stack**  
 ✔ Students upload/update project details  
-✔ Mentors track tasks + give feedback  
-✔ Clean UI + smooth workflow  
+✔ Mentors track tasks & feedback  
+✔ Smooth UI + clean backend design  
 
 ---
 
@@ -72,7 +72,7 @@
 ### 🔹 **Tenzies Game**  
 ✔ Built with **React.js**  
 ✔ 10-dice rolling game  
-✔ Strategic hold system for gameplay  
+✔ Strategic hold mechanism for gameplay  
 
 ---
 
