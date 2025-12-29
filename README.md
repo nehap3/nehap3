@@ -1,6 +1,6 @@
 <!-- -------------------- HEADER -------------------- -->
 
-<h1 align="center">✨ Neha Pal — Crafting Code with Elegance & Logic ✨</h1>
+<h1 align="center">✨ Neha J. Pal — Crafting Code with Elegance & Logic ✨</h1>
 
 <div align="center">
 
