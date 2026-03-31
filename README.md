@@ -18,14 +18,12 @@
 ## 🌷 About Me  
 ✨ **MCA Student @ Thakur College (TIMSCDR)**  
 ✨ **Aspiring Full Stack Developer (.NET | MERN | PERN)**  
-✨ Skilled in **Java, C++, C#, SQL**  
-✨ Strong interest in **DevOps, DSA & System Design**  
+✨ Skilled in **Java, SQL**   
 ✨ Working on **Striver’s DSA Sheet** & **Full Stack Projects**  
 
 📩 **Let’s Connect:**  
 🌐 **LinkedIn:** [https://linkedin.com](https://www.linkedin.com/in/pal-neha-jg0307/)  
 🐙 **GitHub:** https://github.com/nehap3  
-💼 **Portfolio:** Coming soon...
 
 ---
 
@@ -35,12 +33,12 @@
 
 ### 🌸 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### 🌈 **Frameworks & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
 ### 🗄 **Databases**
