@@ -17,7 +17,7 @@
 
 ## 🌷 About Me  
 ✨ **MCA Student @ Thakur College (TIMSCDR)**  
-✨ **Aspiring Full Stack Developer (.NET | MERN | PERN)**  
+✨ **Aspiring Full Stack Developer (Java | MERN | PERN)**  
 ✨ Skilled in **Java, SQL**   
 ✨ Working on **Striver’s DSA Sheet** & **Full Stack Projects**  
 
